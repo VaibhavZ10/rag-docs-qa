@@ -1,0 +1,19 @@
+[
+  {
+    "question": "How do I create a collection in Qdrant?",
+    "expected_source_file": "concepts/collections.md"
+  },
+  {
+    "question": "What distance metrics does Qdrant support?",
+    "expected_source_file": "concepts/collections.md"
+  },
+  {
+    "question": "How does Qdrant's quantization reduce memory usage?",
+    "expected_source_file": "guides/quantization.md"
+  },
+  {
+    "question": "What is the setup process?",
+    "expected_source_file": "setup-guide.md"
+  }
+
+]
